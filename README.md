@@ -1,5 +1,3 @@
----
-
 # LLM Code Agent (v2)
 
 A production‑grade, terminal‑based AI coding assistant inspired by Claude Code. It runs **100% locally** using [Ollama](https://ollama.com/), with a powerful agentic loop that can read, write, execute, and even **test** code – all inside a safe, sandboxed workspace.
